@@ -1,0 +1,11 @@
+# folders
+.ipynb_checkpoints/
+tpp_tutorial_notes/
+images/
+other_videos/
+videos_edited/
+videos_raw/
+thumbnails/
+
+# videos
+*.mp4
